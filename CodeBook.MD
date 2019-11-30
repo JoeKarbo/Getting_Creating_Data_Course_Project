@@ -1,10 +1,3 @@
----
-title: "CodeBook"
-author: "Joe Karbowniczek"
-date: "11/30/2019"
-output: html_document
----
-
 ## Getting and Cleaning Data Project
 
 Joe Karbowniczek
